@@ -1,0 +1,9 @@
+<!-- images.xml -->
+<gallery>
+  <image>
+    <url>photo1664105077.jpg</url>
+  </image>
+  <image>
+    <url>path_to_image2.jpg</url>
+  </image>
+</gallery>
